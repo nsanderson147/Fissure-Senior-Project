@@ -1,0 +1,5 @@
+Download Build 2.zip, should run the same as the previous build.
+Controls are the same as the previous build.
+Go through the test level, jumping over the wall and touching the blue object to progress to the first randomly generated level. 
+There are two randomly generated levels, with pillars and enemy targets to navigate around. The enemy targets will be destroyed
+if you shoot them, and touching them will damage you, decreasing your health. Running out of health will restart the game.
