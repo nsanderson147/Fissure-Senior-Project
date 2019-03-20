@@ -8,6 +8,6 @@ Controls:
 WASD keys- Move       
 Mouse move- Look        
 Space- Jump       
-Left click- Fire          
+Left click- Fire  
+Escape - Quit Game
 
-Bullet collision is currently broken, so this demo just consists of running through the course as the turrets fire at you. You can shoot bullets to see them bounce, but they won't affect the turrets.
