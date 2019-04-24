@@ -1,7 +1,8 @@
 # Fissure-Senior-Project
 
-Github's file upload limit meant I couldn't upload the full uncompressed project file, so I just uploaded a zip file.
+The source code is located in Fissure_Source. Because of Github's mass file upload limit some of the folders in the source folder are compressed. Just extract them and they should open in Unity.
 
+To play the game
 Download the most recent zip (FissureFinalBuild) and extract.
 
 The project should already be compiled, just run the .exe. If that doesn't work you'll have to open the project file in Unity.
