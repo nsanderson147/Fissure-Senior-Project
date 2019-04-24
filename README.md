@@ -1,6 +1,6 @@
 # Fissure-Senior-Project
 
-The source code is located in Fissure_Source. Because of Github's mass file upload limit some of the folders in the source folder are compressed. Just extract them and they should open in Unity.
+The source code is located in Fissure_Source. Because of Github's mass file upload limit some of the folders in the source folder are compressed. Just extract them and the project folder should open in Unity.
 
 To play the game
 Download the most recent zip (FissureFinalBuild) and extract. Run FISSURE.exe to start.
